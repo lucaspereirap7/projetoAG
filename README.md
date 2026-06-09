@@ -60,3 +60,5 @@ O projeto valida que a escolha dos hiperparâmetros (como o número de bits e o 
 - Renan Augusto Da Silva
 
 ## Link para o vídeo de explicação
+
+https://youtu.be/HzzK_0vyZr4
